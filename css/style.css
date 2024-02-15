@@ -24,7 +24,7 @@ h1 {
 display: inline-block;
 border: 2px solid;
 padding: 0.25rem;
-background-color: whitesmoke;
+background-color: white;
 }
 
 .container10{
@@ -34,7 +34,7 @@ background-color: whitesmoke;
 .containers{
 border: 2px solid;
 padding: 0.5rem;
-background-color: whitesmoke;
+background-color: white;
     
 }
 
@@ -133,10 +133,10 @@ grid-template-areas:
   }
 
 a{
-color: rgb(64, 110, 209);
+color:blue;
 }
 a:hover, a:focus {
-background-color: rgb(130, 255, 255);
+background-color: skyblue;
 }
 a:active{
 color: red;
